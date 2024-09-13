@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="MMS Interface DKI"/>
+        <group name="Pajak">
+            <file>file:/home/adi/Middleware%20ASAC/BankDummyServer/src/bankdummyserver/MainSimmulator.java</file>
+            <file>file:/home/adi/Middleware%20ASAC/BankDummyServer/src/bankdummyserver/BankDummyServer.java</file>
+            <file>file:/home/adi/Middleware%20ASAC/BankDummyServer/src/com/asac/test/ABDSimulator.java</file>
+            <file>file:/home/adi/Middleware%20ASAC/BankDummyServer/src/com/asac/test/SumselSimulator.java</file>
+        </group>
+        <group name="YABES PPOB"/>
+        <group/>
+        <group name="Middleware ASAC">
+            <file>file:/home/adi/Middleware%20ASAC/BankDummyServer/src/com/asac/test/BankSumselSimulator.java</file>
+        </group>
+        <group name="ASAC">
+            <file>file:/home/iqbal/Dokumen/Matajari/ASAC/BankDummyServer/src/com/asac/test/ABDServer.java</file>
+            <file>file:/home/iqbal/Dokumen/Matajari/ASAC/BankDummyServer/src/bankdummyserver/MainSimmulator.java</file>
+        </group>
+        <group name="testing">
+            <file>file:/opt/backup/Testing/ASAC/BankDummyServer/src/bankdummyserver/BankDummyServer.java</file>
+            <file>file:/opt/backup/Testing/ASAC/BankDummyServer/src/com/asac/test/HeaderMessage.java</file>
+            <file>file:/opt/backup/Testing/ASAC/BankDummyServer/src/com/asac/test/ABDServer.java</file>
+        </group>
+        <group name="RekonApp"/>
+        <group name="ASAC BA">
+            <file>file:/home/adi/Documents/ASAC/BankDummyServer/src/bankdummyserver/MainSimmulator.java</file>
+        </group>
+        <group name="MMSI JATIM"/>
+        <group name="asac"/>
+        <group name="MMS Middleware"/>
+        <group name="JATIM"/>
+        <group name="Middleware BPDNet"/>
+        <group name="MIDDLEWARE BPDNET">
+            <file>file:/D:/WorkSpace/ASAC/Applikasi/BankDummyServer/src/com/muamalat/iso8583/PackagerFactory.java</file>
+        </group>
+        <group name="MATAJARI FINTECH - CUSO ( CORE )">
+            <file>file:/D:/WorkSpace/ASAC/Applikasi/BankDummyServer/src/com/muamalat/iso8583/PackagerFactory.java</file>
+        </group>
+        <group name="ASAC origin"/>
+        <group name="Middleware">
+            <file>file:/D:/product/ASAC/Applikasi/BankDummyServer/src/bankdummyserver/BankDummyServer.java</file>
+            <file>file:/D:/product/ASAC/Applikasi/BankDummyServer/src/bankdummyserver/MainSimmulator.java</file>
+        </group>
+        <group name="TASPEN"/>
+    </open-files>
+</project-private>
